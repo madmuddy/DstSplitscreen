@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Malik\\source\\repos\\DSTSplitScreen\\DSTSplitScreen\\DSTSplitScreen.csproj",
+      "projectUniqueName": "C:\\Users\\Malik\\source\\repos\\DSTSplitScreen\\DSTSplitScreen\\DstSplitscreen\\DSTSplitScreen.csproj",
       "projectName": "DSTSplitScreen",
-      "projectPath": "C:\\Users\\Malik\\source\\repos\\DSTSplitScreen\\DSTSplitScreen\\DSTSplitScreen.csproj",
+      "projectPath": "C:\\Users\\Malik\\source\\repos\\DSTSplitScreen\\DSTSplitScreen\\DstSplitscreen\\DSTSplitScreen.csproj",
       "packagesPath": "C:\\Users\\Malik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Malik\\source\\repos\\DSTSplitScreen\\DSTSplitScreen\\obj\\",
+      "outputPath": "C:\\Users\\Malik\\source\\repos\\DSTSplitScreen\\DSTSplitScreen\\DstSplitscreen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

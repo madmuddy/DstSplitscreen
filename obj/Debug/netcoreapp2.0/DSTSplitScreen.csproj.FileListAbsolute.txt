@@ -1,0 +1,12 @@
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp2.0\DSTSplitScreen.deps.json
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp2.0\DSTSplitScreen.runtimeconfig.json
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp2.0\DSTSplitScreen.runtimeconfig.dev.json
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp2.0\DSTSplitScreen.dll
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp2.0\DSTSplitScreen.pdb
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp2.0\DSTSplitScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp2.0\DSTSplitScreen.AssemblyInfoInputs.cache
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp2.0\DSTSplitScreen.AssemblyInfo.cs
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp2.0\DSTSplitScreen.csproj.CoreCompileInputs.cache
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp2.0\DSTSplitScreen.dll
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp2.0\DSTSplitScreen.pdb
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp2.0\DSTSplitScreen.genruntimeconfig.cache

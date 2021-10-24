@@ -12,3 +12,17 @@ C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\obj\Debug\netcoreapp3.
 C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.dll
 C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.pdb
 C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.genruntimeconfig.cache
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp3.1\DSTSplitScreen.exe
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp3.1\DSTSplitScreen.deps.json
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp3.1\DSTSplitScreen.runtimeconfig.json
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp3.1\DSTSplitScreen.runtimeconfig.dev.json
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp3.1\DSTSplitScreen.dll
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\bin\Debug\netcoreapp3.1\DSTSplitScreen.pdb
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.csproj.AssemblyReference.cache
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.AssemblyInfoInputs.cache
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.AssemblyInfo.cs
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.csproj.CoreCompileInputs.cache
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.dll
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.pdb
+C:\Users\Malik\source\repos\DSTSplitScreen\DSTSplitScreen\DstSplitscreen\obj\Debug\netcoreapp3.1\DSTSplitScreen.genruntimeconfig.cache
